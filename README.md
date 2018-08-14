@@ -1,2 +1,2 @@
 # book
-Simple booking site with Relational database.
+Simple booking site with Relational database for DBMS project.
