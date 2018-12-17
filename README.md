@@ -1,2 +1,3 @@
-# book
-Simple booking site with Relational database for DBMS project.
+# Book
+<hr/>
+Simple booking site with Relational database for DBMS project created using core PHP.
